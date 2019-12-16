@@ -1,5 +1,5 @@
 "# colegioquimico" 
-Sitio Web para el Colegio Químico y Farmacéutico de de Honduras. 
+Sitio Web para el Colegio Químico y Farmacéutico de Honduras. 
 
 Sitio Web desarrollado Por el Ingeniero Marvin Ricardo Toro
 Inicio del Proyecto Diciembre del 2019
