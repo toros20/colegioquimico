@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Colegio Químico y Farmacéutico de Honduras</title>
-    <meta name="description" content="Colegio Químico y Farmacéutico de Honduras">
+    <title>Colegio Químico Farmacéutico de Honduras desde 1963</title>
+    <meta name="description" content="Colegio Químico Farmacéutico de Honduras desde 1963">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">

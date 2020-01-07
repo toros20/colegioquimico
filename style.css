@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,700);
 /*=======================================================================
+191,1968
+
 
 Template Name: Academics | Responsive HTML5 Template
 Template URI: https://radiustheme.com/
@@ -189,7 +191,8 @@ ul {
   background-color: #f5f5f5;
 }
 .bg-primary {
-  background: #002147;
+ /* background: #002147;*/
+  background-color: #003851;
   color: #ffffff;
 }
 .bg-textPrimary {
@@ -1979,7 +1982,7 @@ nav#desktop-nav ul li > ul {
   transition: all 0.5s ease 0s;
   width: 180px;
   z-index: 99999;
-  background: #002147;
+  background: #003851;
   padding: 0;
   left: 5px;
 }
@@ -2623,7 +2626,8 @@ nav#desktop-nav li.has-child-menu:hover ul.thired-level {
   padding: 30px;
 }
 .header4-area nav#desktop-nav > ul {
-  text-align: left;
+  /*text-align: left;*/
+  text-align: right;
 }
 .header4-area nav#desktop-nav > ul > li > a {
   padding: 20px 35px;

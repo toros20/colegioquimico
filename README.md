@@ -6,6 +6,7 @@ Inicio del Proyecto Diciembre del 2019
 
 Diseñador Web :Lic. Salomon Chavarria
 
-Desarrollado en HTML5 , CSS3 , Javascript, Bootstrap 4, FontAwsome, Jquery. 
+Desarrollado en PHP7, HTML5 , CSS3 , Javascript, Bootstrap 4, FontAwesome, Jquery. 
 
 
+:)
