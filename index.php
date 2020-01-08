@@ -18,8 +18,8 @@
             include('menu.php');
         ?>
     
-   <!-- Slider 1 Area Start Here -->
-   <div class="slider1-area ">
+    <!-- Slider 1 Area Start Here -->
+    <div class="slider1-area ">
         <div class="bend niceties preview-1">
             <div id="ensign-nivoslider-3" class="slides">
                 <img src="img/slider/lab1.jpg" alt="Colegio Químico y Farmacéutico de Honduras" title="#slider-direction-3" />
@@ -77,27 +77,27 @@
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeIn" data-wow-duration="2s" data-wow-delay=".1s">
                         <div class="service-box2">
                             <div class="service-box-icon">
-                                <a href="#"><i class="fa fa-flask" aria-hidden="true"></i></a>
+                                <a href="laboratorio.php"><i class="fa fa-flask" aria-hidden="true"></i></a>
                             </div>
-                            <h3><a href="#">Laboratorio de Especialidades Farmacéuticas</a></h3>
+                            <h3><a href="laboratorio.php">Laboratorio de Especialidades Farmacéuticas</a></h3>
                             <p>Conoce todo sobre nuestro laboratorio de especialidades...</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeIn" data-wow-duration="2s" data-wow-delay=".4s">
                         <div class="service-box2">
                             <div class="service-box-icon">
-                                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                <a href="instalaciones.php"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                             </div>
-                            <h3><a href="#">Galería de Nuestras Instalaciones</a></h3>
+                            <h3><a href="instalaciones.php">Galería de Nuestras Instalaciones</a></h3>
                             <p>Visita nuestra galería para ue conozcas nuestras instalaciones</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow fadeIn" data-wow-duration="2s" data-wow-delay=".7s">
                         <div class="service-box2">
                             <div class="service-box-icon">
-                                <a href="#"><i class="fa fa-edit" aria-hidden="true"></i></a>
+                                <a href="colegiacion.php"><i class="fa fa-edit" aria-hidden="true"></i></a>
                             </div>
-                            <h3><a href="#">Proceso de Colegiación</a></h3>
+                            <h3><a href="colegiacion.php">Proceso de Colegiación</a></h3>
                             <p>Conoce todos los requisitos y pasos para la colegiación.</p>
                         </div>
                     </div>

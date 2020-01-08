@@ -37,8 +37,7 @@
                                                 <li><a href="juntadirectiva.php">Junta Directiva (2017-2020)</a></li>
                                                 <li><a href="tribunaldehonor.php">Tribunal de Honor</a></li>
                                                 <li><a href="historia.php">Historia</a></li>
-                                                <li><a href="mision_vision.php">Misi&oacute; y Visi&oacute;n</a></li>
-                                                <li><a href="mision_vision.php">Instalaciones</a></li>
+                                                <li><a href="instalaciones.php">Instalaciones</a></li>
                                                 
                                             </ul>
                                         </li> 
@@ -76,30 +75,35 @@
                         <div class="col-md-12">
                             <div class="mobile-menu">
                                 <nav id="dropdown">
-                                    <ul>
+                                <ul>
                                         <li class="active"><a href="index.php">Inicio</a></li>
-                                        <li><a href="#">Nosotros</a>
+                                        <li><a>Nosotros</a>
                                             <ul>
-                                                <li><a href="proyecto.php">Organigrama</a></li>
-                                                <li><a href="proyecto.php">Junta Directiva (2017-2020)</a></li>
-                                                <li><a href="proyecto.php">Tribunal de Honor</a></li>
+                                                <li><a href="organigrama.php">Organigrama</a></li>
+                                                <li><a href="juntadirectiva.php">Junta Directiva (2017-2020)</a></li>
+                                                <li><a href="tribunaldehonor.php">Tribunal de Honor</a></li>
                                                 <li><a href="historia.php">Historia</a></li>
-                                                <li><a href="mision_vision.php">Misi&oacute; y Visi&oacute;n</a></li>
-                                                <li><a href="mision_vision.php">Instalaciones</a></li>
+                                                <li><a href="instalaciones.php">Instalaciones</a></li>
                                                 
                                             </ul>
                                         </li> 
                                         <li><a href="colegiacion.php">Colegiación</a></li>
-                                        <li><a href="beneficios.php">Beneficios</a>
+                                        
+                                        <li><a>Beneficios</a>
                                             <ul>
-                                                <li><a href="fma.php">FAM</a></li>
-                                                <li><a href="proyecto.php">Laboratorio de Especialidades Farmacéuticas</a></li>
+                                                <li><a href="beneficios.php">Beneficios de Agremiados</a></li>
+                                                <li><a href="fma.php">FAM Y Vigilancia</a></li>
+                                                <li><a href="laboratorio.php">Laboratorio de Especialidades Farmacéuticas</a></li>
                                             </ul>
                                         </li>
 
-                                        <li><a href="">Inspectoria</a></li> 
-
-                                        <li><a href="">Publicaciones</a></li> 
+                                        <li><a href="inspectoria.php">Inspectoria</a></li> 
+                                        <li><a>Publicaciones</a>
+                                            <ul>
+                                                <li><a href="noticias.php">Noticias</a></li>
+                                                <li><a href="publicaciones.php">Leyes e Informes</a></li> 
+                                            </ul>
+                                        </li>
                                         
                                         <li><a href="contacto.php">Cont&aacute;cto</a> </li>
                                     </ul>
