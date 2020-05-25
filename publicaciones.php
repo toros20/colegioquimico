@@ -18,13 +18,13 @@
                 <div class="price-table-box1">
                     <span>Leyes y Reglamentos</span>
                     <div class="price-table-service">
-                        <a href=""> <p>Ley Orgánica</p></a>
-                        <a href=""> <p>Reglamento De La Ley Orgánica</p></a>
-                        <a href=""> <p>Reglamento Del Fondo De Auxilio Mutuo</p></a>
-                        <a href=""> <p>Ley Del Estatuto Del Profesional Químico Farmacéutico Empleado </p></a>
-                        <a href=""> <p>Reglamento Del Tribunal De Honor </p></a>
-                        <a href=""> <p>Código De Ética</p></a>
-                        <a href=""> <p>Reglamento De Procesos Electorales </p></a>
+                        <a href="pdf/Ley-organica-Gaceta-1963.pdf"> <p>Ley Orgánica</p></a>
+                        <a href="pdf/Reglamento-de-la-ley-del-Colegio-Quimico-Farmaceutico.pdf"> <p>Reglamento De La Ley Orgánica</p></a>
+                        <a href="pdf/REGLAMENTO-FONDO-DE-AUXILIO-MUTUO.pdf"> <p>Reglamento Del Fondo De Auxilio Mutuo</p></a>
+                        <a href="pdf/LEY-DEL-ESTATUTO-LABORAL-DEL-QUIMICO-F.pdf"> <p>Ley Del Estatuto Del Profesional Químico Farmacéutico Empleado </p></a>
+                        <a href="pdf/REGLAMENTO-INTERNO-DEL-TRIBUNAL-DE-HONOR-2018.pdf"> <p>Reglamento Del Tribunal De Honor </p></a>
+                        <a href="pdf/CODIGO-DE-ETICA-DEL-PROFESIONAL-QQFF2018.pdf"> <p>Código De Ética</p></a>
+                        <a href="pdf/REGLAMENTO-ELECTORAL-PUBLICADO-EN-LA-GACETA.pdf"> <p>Reglamento De Procesos Electorales </p></a>
                     </div>
                 </div>
             </div>
