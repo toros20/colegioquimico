@@ -54,7 +54,7 @@
                                         <li><a href="inspectoria.php">Inspectoria</a></li> 
                                         <li><a>Publicaciones</a>
                                             <ul>
-                                                <li><a href="noticias.php">Noticias</a></li>
+                                                <li><a href="licitaciones.php">Licitaciones</a></li>
                                                 <li><a href="publicaciones.php">Leyes e Informes</a></li> 
                                             </ul>
                                         </li>
@@ -100,7 +100,7 @@
                                         <li><a href="inspectoria.php">Inspectoria</a></li> 
                                         <li><a>Publicaciones</a>
                                             <ul>
-                                                <li><a href="noticias.php">Noticias</a></li>
+                                                <li><a href="licitaciones.php">Licitaciones</a></li>
                                                 <li><a href="publicaciones.php">Leyes e Informes</a></li> 
                                             </ul>
                                         </li>

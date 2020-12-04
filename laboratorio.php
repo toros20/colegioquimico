@@ -132,6 +132,48 @@
                     <div align="center">
                         <img class="img-responsive" src="img/organigrama_labo.jpg" alt="organigrama del laboratorio quimico del colegio de quimico y farmaceuticos de honduras">
                     </div>
+                    <p></p>
+                    <h2> Flujograma de Gestión de Quejas</h2>
+                    <p> </p>
+                    <div align="center">
+                        <img  class="img-responsive" style="width:350px" src="img/flujograma_colegio_quimico.png" alt="FLujograma de la gestión de Quejas">
+                    </div>
+
+                       <!-- About 2 Area Start Here -->
+    <div class="about2-area">
+             <div class="container">
+                <h2 class="about-title">Archivos de Pruebas Generales y del RTCA</h2>
+                <p class="about-sub-title">Puedes descargar nuestros archivos</p>
+            </div> 
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="2s" data-wow-delay=".1s">
+                        <div class="service-box2">
+                            <div class="service-box-icon">
+                                <a href="laboratorio.php"><i class="fa fa-flask" aria-hidden="true"></i></a>
+                            </div>
+                            <h3><a href="laboratorio.php">Listado de Pruebas del RTCA</a></h3>
+                            <p>Pruebas físicas, químicas y microbiológicas aplicadas a los medicamentos de acuerdo con la forma farmacéutica indicadas en el reglamento técnico Centroamericano</p>
+                            <a style="margin-top:15px" target="_blank" class="btn btn-success" href="pdf/LISTADO_PRUEBAS _DEL_RTCA.pdf"> Descargar Archivo  </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 wow fadeIn" data-wow-duration="2s" data-wow-delay=".4s">
+                        <div class="service-box2">
+                            <div class="service-box-icon">
+                                <a href="instalaciones.php"><i class="fa fa-flask" aria-hidden="true"></i></a>
+                            </div>
+                            <h3><a href="instalaciones.php">Pruebas Generales</a></h3>
+                            <p>Pruebas físicas, químicas y microbiológicas que realiza el Laboratorio de Especialidades Farmacéuticas del Colegio de Químico farmacéuticos de Honduras</p>
+                            <a style="margin-top:15px" target="_blank" class="btn btn-success" href="pdf/PRUEBAS_GENERALES_LEF-CQFH.pdf"> Descargar Archivo  </a>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+    </div>
+    <!-- About 2 Area End Here -->
+
+                    <p>Última Actualización: 4 de Diciembre 2020</p>
                      </div>
                 </div>
             </div>

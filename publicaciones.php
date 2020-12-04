@@ -32,8 +32,8 @@
                 <div class="price-table-box1">
                     <span>Informes</span>
                     <div class="price-table-service">
-                        <a href=""> <p>Informe periodo 2011-2012</p></a>
-                        <a href=""> <p>Informe periodo 2012-2013</p></a>
+                        <a href="pdf/INFORME DE ACTIVIDADES 2011-2012.pdf"> <p>Informe periodo 2011-2012</p></a>
+                        <a href="pdf/INFORME DE ACTIVIDADES 2012-2013.pdf"> <p>Informe periodo 2012-2013</p></a>
                         <a href="pdf/INFORME DE ACTIVIDADES 2013-2014.pdf"> <p>Informe periodo 2013-2014</p></a>
                         <a href="pdf/INFORME DE ACTIVIDADES 2014-2015.pdf"> <p>Informe periodo 2014-2015</p></a>
                         <a href="pdf/INFORME DE ACTIVIDADES 2015-2016.pdf"> <p>Informe periodo 2015-2016</p></a>
